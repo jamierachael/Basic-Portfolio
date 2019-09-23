@@ -46,15 +46,6 @@ h1 { color: white;
     padding: 20px;
 }
 
-#contact-heading {
-    color: white;
-    width: 27%;
-    background-color: #4aaaa5;
-    margin-left: 320px;
-    position: relative;
-    top: 40px;
-    padding: 20px;
-}
 
 h2 {
     color: #4aaaa5;
@@ -74,9 +65,8 @@ h2 {
 .main-contact {
     background-color: #ffffff;   
     border-color: #dddddd; 
-    width: 840px;
+    width: 960px;
     margin: 0 auto;
-    margin-left: 320px;
     height: 525px;
     
 }
@@ -105,10 +95,11 @@ footer {
 
 form {
     margin: 25px;
+    padding-left: 30px;
 }
 
 
-#length { width: 750px;
+#length { width: 730px;
     margin-top: 5px;
     margin-bottom: 10px;
 }
