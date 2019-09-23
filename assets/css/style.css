@@ -16,12 +16,20 @@ header {
 nav {
     position: relative;
     margin-left: 900px;
-    bottom: 45px;
+    bottom: 30px;
 }
 
 nav a { text-decoration: none;
     color: #777777;
     margin: 10px;
+}
+
+.wrapper {
+    width: 100%;
+    background-color: lightgray;
+    height: 700px;
+    border-bottom: 10px solid #4aaaa5;
+
 }
 
 h1, h2 {
@@ -38,6 +46,16 @@ h1 { color: white;
     padding: 20px;
 }
 
+#contact-heading {
+    color: white;
+    width: 27%;
+    background-color: #4aaaa5;
+    margin-left: 320px;
+    position: relative;
+    top: 40px;
+    padding: 20px;
+}
+
 h2 {
     color: #4aaaa5;
     padding-top: 20px;
@@ -45,24 +63,34 @@ h2 {
 }
 
 .main-content {
-    background-color: #ffffff;    
+    background-color: #ffffff;   
+    border-color: #dddddd; 
     width: 960px;
     margin: 0 auto;
     height: 475px;
     
 }
 
-.wrapper {
-    width: 100%;
-    background-color: lightgray;
-    height: 700px;
-    border-bottom: 10px solid #4aaaa5;
-
+.main-contact {
+    background-color: #ffffff;   
+    border-color: #dddddd; 
+    width: 840px;
+    margin: 0 auto;
+    margin-left: 320px;
+    height: 525px;
+    
 }
+
+p { margin: 20px;
+    
+  }
+
+
 
 img {float: left;
     padding: 20px;
     padding-bottom: 10px;
+    padding-top: 15px;
 }
 
 
@@ -71,6 +99,29 @@ footer {
     padding: 20px;
     text-align: center;
     clear: both;
-  
+    color: #cccccc;
 
+}
+
+form {
+    margin: 25px;
+}
+
+
+#length { width: 750px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#submit {
+    
+        background-color: #4aaaa5; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
 }
