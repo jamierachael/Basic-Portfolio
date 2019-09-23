@@ -8,16 +8,14 @@ body {
 header {
     background-color: #ffffff;
     border-color: #cccccc;
-    margin-bottom: 50px;
-    
     margin: 0 auto;
-
+    position: relative;
 }
 
+
 nav {
-   float: right; 
-   margin-right: 300px;
-   position: relative;
+    position: relative;
+    margin-left: 800px;
 }
 
 h1, h2 {
@@ -29,31 +27,42 @@ h1 { color: white;
     width: 27%;
     background-color: #4aaaa5;
     margin-left: 235px;
+    position: relative;
+    top: 40px;
+    padding: 20px;
 }
 
 h2 {
     color: #4aaaa5;
+    padding-top: 20px;
+    margin-left: 10px;
 }
 
 .main-content {
     background-color: #ffffff;    
     width: 960px;
     margin: 0 auto;
-    height: 400px;
-
+    height: 475px;
+    
 }
 
 .wrapper {
     width: 100%;
     background-color: lightgray;
-    
+    height: 700px;
 }
 
-img {float: left;}
+img {float: left;
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
 
 footer {
     background-color: #666666;
     padding: 20px;
     text-align: center;
+    clear: both;
+  
 
 }
