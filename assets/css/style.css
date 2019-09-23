@@ -15,7 +15,13 @@ header {
 
 nav {
     position: relative;
-    margin-left: 800px;
+    margin-left: 900px;
+    bottom: 45px;
+}
+
+nav a { text-decoration: none;
+    color: #777777;
+    margin: 10px;
 }
 
 h1, h2 {
@@ -50,6 +56,8 @@ h2 {
     width: 100%;
     background-color: lightgray;
     height: 700px;
+    border-bottom: 10px solid #4aaaa5;
+
 }
 
 img {float: left;
