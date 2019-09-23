@@ -84,15 +84,6 @@ img {float: left;
 }
 
 
-footer {
-    background-color: #666666;
-    padding: 20px;
-    text-align: center;
-    clear: both;
-    color: #cccccc;
-
-}
-
 form {
     margin: 25px;
     padding-left: 30px;
@@ -115,4 +106,13 @@ form {
         display: inline-block;
         font-size: 16px;
       
+}
+
+footer {
+    background-color: #666666;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+    color: #cccccc;
+
 }
