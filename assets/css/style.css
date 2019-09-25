@@ -29,7 +29,8 @@ nav a { text-decoration: none;
     width: 100%;
     background-color: lightgray;
     height: 700px;
-    border-bottom: 10px solid #4aaaa5;
+    background-image: url("../images/gravel/gravel.png");
+
 
 }
 
@@ -116,5 +117,6 @@ footer {
     text-align: center;
     clear: both;
     color: #cccccc;
+    border-top: 8px solid #4aaaa5;
 
 }
