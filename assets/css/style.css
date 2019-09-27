@@ -122,12 +122,12 @@ form {
 
 .img-portfolio {
     width: 800px;
-    margin: 0 auto;
+    margin: 30px 115px;
     height: 400px;
     
 }
 
-.box {
+label {
     background: #4aaaa5;
     height: 25px; 
     width: 200px;
@@ -135,10 +135,8 @@ form {
     position: absolute;
     text-align: center;
     padding-top: 10px;
-    margin: 125px 0px 0px 35px;
+    margin: 125px auto auto 35px;
     z-index: 1;
-    
-
 }
 
 .img {
@@ -151,59 +149,11 @@ form {
 
 }
 
-/* Web Design 
-.box-1 {
-}
-*/
-/* .img-1 {  
-}
-*/
-/* Social Media */
-.box-2 {
-margin-left: 19%;
+.box {
+    float: left;
+    
 }
 
-/* Water drop photo 
-.img-2 {
-}
-*/
-/* Proof-reading */
-.box-3 {
-  margin-left: 35.7%;
-}
-
-
-/*
-.img-3 {
-}
-*/
-/* Virtual Assistance 
-.box-4 {
-}
-.img-4 {
-}
-*/
-/* CRM */
-.box-5 {
-    margin-left: 35.7%;
-    margin-top: -16.5%;
-}
-
-/* CRM 
-.img-5 {
-      margin-left: 35.7%;
-    margin-top: -16.5%;
-}
-*/
-/* CMS */
-.box-6 {
-   margin-left: 19%;
-    margin-top: -16.5%;
-}
-/*
-.img-6 {
-}
-*/
 
 footer {
     background-color: #666666;
