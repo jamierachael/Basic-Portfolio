@@ -100,10 +100,10 @@ form {
     padding-left: 30px;
 }
 
-
 .length { width: 800px;
     margin-top: 5px;
     margin-bottom: 10px;
+    line-height: 175%;
 }
 
 #submit {
