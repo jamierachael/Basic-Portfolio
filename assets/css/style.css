@@ -22,6 +22,10 @@ nav a { text-decoration: none;
     color: #777777;
     margin: 10px;
 }
+
+/* Styles borrowed from http://www.codeitpretty.com/2013/06/how-to-use-css-hover-effects.html*/
+a:hover { color: #4aaaa5; }
+
 /* This is style for the wrapper */
 .wrapper {
     width: 100%;
@@ -138,6 +142,7 @@ form {
 }
 
 /* This is style for the footer */
+/* Sticky footer adopted from https://css-tricks.com/couple-takes-sticky-footer/ */
 footer {
     background-color: #666666;
     padding: 20px;
