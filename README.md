@@ -10,10 +10,8 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Basic-Portfolio DEPLOYED GitHub IO](https://jamierachael.github.io/Basic-Portfolio/)
 * [Basic-Portfolio Demo Video](https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/view)
 
-<iframe src="https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/preview" width="640" height="480"></iframe>
 
-
-![](assets/Images/demo.PNG)
+![](assets/images/demo.PNG)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
