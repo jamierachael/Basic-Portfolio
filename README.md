@@ -6,11 +6,12 @@ This project emphasizes building a professional portfolio site using HTML/CSS
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. 
 
-https://jamierachael.github.io/Basic-Portfolio/
-
-* [Basic-Portfolio GitHub](https://github.com/jamierachael/Password-Generator)
+* [Basic-Portfolio GitHub](https://github.com/jamierachael/Basic-Portfolio/)
 * [Basic-Portfolio DEPLOYED GitHub IO](https://jamierachael.github.io/Basic-Portfolio/)
-* [Basic-Portfolio Demo Video](https://drive.google.com/file/d/10da4Te-ywl3aBuG3pL4jRAxBcFI6w871/view)
+* [Basic-Portfolio Demo Video](https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/view)
+
+<iframe src="https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/preview" width="640" height="480"></iframe>
+
 
 ![](assets/Images/demo.PNG)
 
