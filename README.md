@@ -6,9 +6,9 @@ This project emphasizes building a professional portfolio site using HTML/CSS
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. 
 
-* [Basic-Portfolio GitHub](https://github.com/jamierachael/Basic-Portfolio/)
-* [Basic-Portfolio DEPLOYED GitHub IO](https://jamierachael.github.io/Basic-Portfolio/)
-* [Basic-Portfolio Demo Video](https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/view)
+* [GitHub Repository](https://github.com/jamierachael/Basic-Portfolio/)
+* [Deployed GitHub IO](https://jamierachael.github.io/Basic-Portfolio/)
+* [Demo Video](https://drive.google.com/file/d/1mRuUeQ1Klr53MmDPOg7Iqms4zCw6oeWt/view)
 
 
 ![](assets/images/demo.PNG)
