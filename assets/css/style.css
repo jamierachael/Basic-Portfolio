@@ -141,6 +141,12 @@ form {
     
 }
 
+textarea {
+    height: 150px;
+    width: 90%;
+    
+  }
+
 /* This is style for the footer */
 /* Sticky footer adopted from https://css-tricks.com/couple-takes-sticky-footer/ */
 footer {
