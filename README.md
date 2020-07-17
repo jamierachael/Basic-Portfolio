@@ -25,11 +25,10 @@ To install this application, you will need a text editor. I recommend Visual Stu
 To install this code, download the zip file, or use GitHub's guidelines to clone the repository. 
 
 
-## Projecy Requirement 
+## Project Requirements 
 
 This project provides a basic template for a portfolio website. 
 
-```
 Pages include the following: Index, Portfolio, Contact. 
 
 ### Index
