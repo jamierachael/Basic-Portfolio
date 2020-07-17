@@ -51,7 +51,7 @@ Contains a form to submit contact information.
 
 ## Authors
 
-* **Jamie Rachael Morris** - *Initial work* - [PurpleBooth](https://github.com/jamierachael)
+* **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
 
 ## License
 
