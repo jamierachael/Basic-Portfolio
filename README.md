@@ -1,6 +1,10 @@
 # Basic-Portfolio
 
-This project emphasizes building a professional portfolio site using HTML/CSS
+This project was designed as a homework assignment for UNH's coding bootcamp. This emphasizes building a professional portfolio site using HTML/CSS for students to display their upcoming projects, application and website designs and is intended for use as a template for further portfolio building. 
+
+This application includes an About Me, Portfolio Page, and Contact page. 
+
+Latyout and content were built using HTML and CSS using Visual Studio Code editor. 
 
 ## Getting Started
 
@@ -14,8 +18,6 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 ![Basic-Portfolio Demo](assets/demo/demo.gif)
 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 To install this application, you will need a text editor. I recommend Visual Studio Code. 
@@ -23,7 +25,6 @@ To install this application, you will need a text editor. I recommend Visual Stu
 ### Installing
 
 To install this code, download the zip file, or use GitHub's guidelines to clone the repository. 
-
 
 ## Project Requirements 
 
@@ -52,6 +53,7 @@ Contains a form to submit contact information.
 ## Authors
 
 * **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
+* UNH Project Design
 
 ## License
 
