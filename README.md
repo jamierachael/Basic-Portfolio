@@ -55,8 +55,6 @@ Contains a form to submit contact information.
 * **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
 * UNH Project Design
 
-## License
-
 ## Acknowledgments
 
 * Hat tip to UNH for providing project parameters and code examples
