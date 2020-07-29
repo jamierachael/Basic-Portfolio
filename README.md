@@ -4,7 +4,7 @@ This project was designed as a homework assignment for UNH's coding bootcamp. Th
 
 This application includes an About Me, Portfolio Page, and Contact page. 
 
-Latyout and content were built using HTML and CSS using Visual Studio Code editor. 
+Layout and content were built using HTML and CSS using Visual Studio Code editor. 
 
 ## Getting Started
 
